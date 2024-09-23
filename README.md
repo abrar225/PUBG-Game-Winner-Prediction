@@ -1,19 +1,2 @@
 # PUBG-Game-Winner-Prediction
-- [2025-01-14T17:06:47] docs(readme): improve documentation notes and usage guidelines
-- [2025-01-22T12:18:16] docs(readme): improve documentation notes and usage guidelines
-- [2025-02-05T16:23:26] docs(readme): improve documentation notes and usage guidelines
-- [2025-02-27T17:16:01] docs(readme): improve documentation notes and usage guidelines
-- [2025-03-07T09:15:22] style: enhance README formatting and badge definitions
-- [2025-05-20T16:38:59] docs(readme): improve documentation notes and usage guidelines
-- [2025-07-06T15:16:38] docs(readme): improve documentation notes and usage guidelines
-- [2025-08-01T18:08:17] style: enhance README formatting and badge definitions
-- [2025-09-15T19:57:48] docs(readme): improve documentation notes and usage guidelines
-- [2025-10-01T22:30:32] style: enhance README formatting and badge definitions
-- [2025-10-08T12:33:59] docs(readme): improve documentation notes and usage guidelines
-- [2025-11-04T16:20:56] docs(readme): improve documentation notes and usage guidelines
-- [2026-03-05T22:39:59] docs(readme): improve documentation notes and usage guidelines
-- [2026-03-30T10:24:52] docs(readme): improve documentation notes and usage guidelines
-- [2026-05-27T21:40:37] style: enhance README formatting and badge definitions
-- [2026-06-30T10:26:28] docs(readme): improve documentation notes and usage guidelines
-- [2026-07-06T13:26:26] style: enhance README formatting and badge definitions
-- [2026-08-05T10:59:46] docs(readme): improve documentation notes and usage guidelines
+<!-- [2024-09-23T09:40:37] docs(readme): update project documentation and overview -->
