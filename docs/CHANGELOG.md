@@ -1,1 +1,2 @@
 - [2025-03-12T14:49:19] fix: resolve minor edge cases in configuration parsing
+- [2025-04-23T17:36:37] fix: resolve minor edge cases in configuration parsing
