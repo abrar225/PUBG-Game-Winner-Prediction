@@ -4,3 +4,4 @@
 <!-- [2025-03-18T21:59:23] docs(readme): update project documentation and overview -->
 <!-- [2025-03-23T09:51:07] style: improve formatting and badge alignment -->
 <!-- [2025-03-28T13:53:49] style: improve formatting and badge alignment -->
+<!-- [2025-05-12T14:10:02] docs(readme): update project documentation and overview -->
