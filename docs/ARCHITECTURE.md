@@ -1,1 +1,2 @@
 - [2025-02-04T17:55:24] docs(architecture): clarify module design and system layout
+- [2025-06-18T21:46:27] docs(architecture): clarify module design and system layout
