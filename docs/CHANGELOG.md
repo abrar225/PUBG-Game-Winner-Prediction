@@ -5,3 +5,4 @@
 <!-- [2025-05-25T15:11:56] docs(changelog): update version release notes -->
 <!-- [2025-09-02T20:37:34] docs(changelog): update version release notes -->
 <!-- [2025-10-04T14:27:36] docs(changelog): update version release notes -->
+<!-- [2025-12-08T11:20:32] fix: minor edge case handling in config parser -->
