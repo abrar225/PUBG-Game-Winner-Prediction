@@ -12,3 +12,4 @@
 <!-- [2025-09-16T22:13:42] docs(readme): update project documentation and overview -->
 <!-- [2025-10-30T17:09:14] docs(readme): update project documentation and overview -->
 <!-- [2025-12-11T14:16:18] docs(readme): update project documentation and overview -->
+<!-- [2026-01-07T20:19:50] style: improve formatting and badge alignment -->
