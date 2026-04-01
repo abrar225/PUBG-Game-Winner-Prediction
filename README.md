@@ -16,3 +16,4 @@
 <!-- [2026-01-29T11:44:07] docs(readme): update project documentation and overview -->
 <!-- [2026-01-29T20:38:21] style: improve formatting and badge alignment -->
 <!-- [2026-03-07T21:44:46] style: improve formatting and badge alignment -->
+<!-- [2026-04-01T19:08:33] style: improve formatting and badge alignment -->
