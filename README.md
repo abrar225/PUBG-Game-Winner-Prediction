@@ -16,3 +16,4 @@
 - [2026-05-27T21:40:37] style: enhance README formatting and badge definitions
 - [2026-06-30T10:26:28] docs(readme): improve documentation notes and usage guidelines
 - [2026-07-06T13:26:26] style: enhance README formatting and badge definitions
+- [2026-08-05T10:59:46] docs(readme): improve documentation notes and usage guidelines
